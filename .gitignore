@@ -1,0 +1,9 @@
+# 编译输出目录
+target/
+# IntelliJ IDEA 配置目录
+.idea/
+# IntelliJ IDEA 模块文件
+*.iml
+# 其他常见忽略项
+*.class
+*.log
